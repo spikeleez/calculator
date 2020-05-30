@@ -70,11 +70,11 @@ render() {
         <Display value={this.state.displayValue}  />
         <View style={styles.button}>
           <Button label='C' triple onClick={this.clearMemory} />
-          <Button label='÷' operation onClick={this.setOperation} />
+          <Button label='/' operation onClick={this.setOperation} />
           <Button label='7' onClick={this.addDigit} />
           <Button label='8'onClick={this.addDigit}/>
           <Button label='9'onClick={this.addDigit}/>
-          <Button label='x'operation onClick={this.setOperation}/>
+          <Button label='*'operation onClick={this.setOperation}/>
           <Button label='4'onClick={this.addDigit}/>
           <Button label='5'onClick={this.addDigit}/>
           <Button label='6'onClick={this.addDigit}/>
