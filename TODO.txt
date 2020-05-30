@@ -1,4 +1,4 @@
-- Futuros Temas para a minha aplicação -
+-Future Themes for my application -
 
 backgroundColor: '#7159c1',
 color: '#fff'
