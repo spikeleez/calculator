@@ -1,0 +1,3 @@
+My first app made in react native. 
+  I decided to make a similar calculator with that of the mac or iphone whatever...
+  It has all the features of a standard calculator with "+", "-" and etc. all operations are valid.

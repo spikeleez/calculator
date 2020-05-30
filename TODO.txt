@@ -1,0 +1,5 @@
+- Futuros Temas para a minha aplicação -
+
+backgroundColor: '#7159c1',
+color: '#fff'
+//backgroundColor: '#C62E65',
